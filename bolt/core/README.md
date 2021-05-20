@@ -6,3 +6,5 @@
 
 **Latest report PDF**: [report.pdf](https://github.com/I-Valchev/bolt-statistics/raw/github-repo-stats/bolt/core/latest-report/report.pdf)
 
+
+**Latest report HTML via GitHub pages**: [report.html](https://i-valchev.github.io/bolt-statistics/bolt/core/latest-report/report.html)

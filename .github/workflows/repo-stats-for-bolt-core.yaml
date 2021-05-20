@@ -22,6 +22,6 @@ jobs:
           # repository, and that can push to the data
           # repository (which this workflow file lives in),
           # to store data and the report files.
-          #ghtoken: ${{ secrets.ghrs_github_api_token }}
+          ghtoken: ${{ secrets.ghrs_github_api_token }}
           #ghpagesprefix: https://i-valchev.github.io/statistics
 

@@ -1,5 +1,5 @@
 % Statistics for bolt/core
-% Generated for [bolt/core](https://github.com/bolt/core) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2021-06-05 23:18 UTC.
+% Generated for [bolt/core](https://github.com/bolt/core) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2021-06-05 23:53 UTC.
 
 
 ## Views
@@ -68,7 +68,7 @@ respond slowly to change (narrow peaks are smoothed out).
 
 <div id="chart_referrers_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 referrers: 01: `github.com`, 02: `Google`, 03: `docs.bolt.cm`, 04: `boltcms.io`, 05: `roadmap.boltcms.io`, 06: `t.co`, 07: `DuckDuckGo`, 08: `api-docs.boltcms.io`, 09: `packagist.org`, 10: `archplanreview.com`, 11: `awesomeopensource.com`, 12: `en.m.wikipedia.org`, 13: `cve.mitre.org`, 14: `en.wikipedia.org`, 15: `blog.jetbrains.com`
+Top 15 referrers: 01: `github.com`, 02: `Google`, 03: `docs.bolt.cm`, 04: `boltcms.io`, 05: `roadmap.boltcms.io`, 06: `t.co`, 07: `DuckDuckGo`, 08: `api-docs.boltcms.io`, 09: `packagist.org`, 10: `archplanreview.com`, 11: `awesomeopensource.com`, 12: `en.m.wikipedia.org`, 13: `esp.preprod.appolo.fr`, 14: `hp.beget.ru`, 15: `blog.jetbrains.com`
 
 
 

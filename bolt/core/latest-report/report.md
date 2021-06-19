@@ -1,5 +1,5 @@
 % Statistics for bolt/core
-% Generated for [bolt/core](https://github.com/bolt/core) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2021-06-19 23:37 UTC.
+% Generated for [bolt/core](https://github.com/bolt/core) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2021-06-19 23:48 UTC.
 
 
 ## Views
@@ -68,7 +68,7 @@ respond slowly to change (narrow peaks are smoothed out).
 
 <div id="chart_referrers_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 referrers: 01: `github.com`, 02: `Google`, 03: `docs.bolt.cm`, 04: `boltcms.io`, 05: `roadmap.boltcms.io`, 06: `t.co`, 07: `DuckDuckGo`, 08: `packagist.org`, 09: `api-docs.boltcms.io`, 10: `awesomeopensource.com`, 11: `cve.mitre.org`, 12: `en.wikipedia.org`, 13: `alexei-cioina.b9ad.pro-us-east-1.openshiftapps.com`, 14: `archplanreview.com`, 15: `en.m.wikipedia.org`
+Top 15 referrers: 01: `github.com`, 02: `Google`, 03: `docs.bolt.cm`, 04: `boltcms.io`, 05: `roadmap.boltcms.io`, 06: `t.co`, 07: `DuckDuckGo`, 08: `packagist.org`, 09: `api-docs.boltcms.io`, 10: `awesomeopensource.com`, 11: `en.wikipedia.org`, 12: `alexei-cioina.b9ad.pro-us-east-1.openshiftapps.com`, 13: `archplanreview.com`, 14: `cve.mitre.org`, 15: `en.m.wikipedia.org`
 
 
 
@@ -79,7 +79,7 @@ Top 15 referrers: 01: `github.com`, 02: `Google`, 03: `docs.bolt.cm`, 04: `boltc
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/issues`, 03: `/pull/2562`, 04: `/issues/1092`, 05: `/releases/tag/4.1.20`, 06: `/releases/tag/4.1.19`, 07: `/tree/4.1/src`, 08: `/discussions`, 09: `/releases`, 10: `/pulls`, 11: `/issues/2546`, 12: `/search`, 13: `/tree/master`, 14: `/pull/2597`, 15: `/issues/2620`
+Top 15 paths: 01: `/`, 02: `/issues`, 03: `/pull/2562`, 04: `/issues/1092`, 05: `/releases/tag/4.1.20`, 06: `/releases/tag/4.1.19`, 07: `/tree/4.1/src`, 08: `/discussions`, 09: `/releases`, 10: `/pulls`, 11: `/issues/2546`, 12: `/search`, 13: `/tree/master`, 14: `/pull/2597`, 15: `/pull/2635`
 
 
 <script type="text/javascript">

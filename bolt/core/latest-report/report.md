@@ -1,5 +1,5 @@
 % Statistics for bolt/core
-% Generated for [bolt/core](https://github.com/bolt/core) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2021-06-22 23:04 UTC.
+% Generated for [bolt/core](https://github.com/bolt/core) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2021-06-22 23:24 UTC.
 
 
 ## Views
@@ -68,7 +68,7 @@ respond slowly to change (narrow peaks are smoothed out).
 
 <div id="chart_referrers_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 referrers: 01: `github.com`, 02: `Google`, 03: `docs.bolt.cm`, 04: `boltcms.io`, 05: `roadmap.boltcms.io`, 06: `t.co`, 07: `DuckDuckGo`, 08: `packagist.org`, 09: `en.wikipedia.org`, 10: `api-docs.boltcms.io`, 11: `awesomeopensource.com`, 12: `archplanreview.com`, 13: `cve.mitre.org`, 14: `alexei-cioina.b9ad.pro-us-east-1.openshiftapps.com`, 15: `openmultipleurl.com`
+Top 15 referrers: 01: `github.com`, 02: `Google`, 03: `docs.bolt.cm`, 04: `boltcms.io`, 05: `roadmap.boltcms.io`, 06: `t.co`, 07: `DuckDuckGo`, 08: `packagist.org`, 09: `en.wikipedia.org`, 10: `api-docs.boltcms.io`, 11: `cve.mitre.org`, 12: `archplanreview.com`, 13: `awesomeopensource.com`, 14: `alexei-cioina.b9ad.pro-us-east-1.openshiftapps.com`, 15: `medium.com`
 
 
 

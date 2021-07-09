@@ -1,5 +1,5 @@
 % Statistics for bolt/core
-% Generated for [bolt/core](https://github.com/bolt/core) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2021-07-09 23:40 UTC.
+% Generated for [bolt/core](https://github.com/bolt/core) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2021-07-09 23:46 UTC.
 
 
 ## Views
@@ -68,7 +68,7 @@ respond slowly to change (narrow peaks are smoothed out).
 
 <div id="chart_referrers_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 referrers: 01: `github.com`, 02: `Google`, 03: `docs.bolt.cm`, 04: `boltcms.io`, 05: `roadmap.boltcms.io`, 06: `en.wikipedia.org`, 07: `t.co`, 08: `DuckDuckGo`, 09: `packagist.org`, 10: `api-docs.boltcms.io`, 11: `com.google.android.gm`, 12: `archplanreview.com`, 13: `awesomeopensource.com`, 14: `pk.rusoil.net`, 15: `alexei-cioina.b9ad.pro-us-east-1.openshiftapps.com`
+Top 15 referrers: 01: `github.com`, 02: `Google`, 03: `docs.bolt.cm`, 04: `boltcms.io`, 05: `roadmap.boltcms.io`, 06: `en.wikipedia.org`, 07: `t.co`, 08: `DuckDuckGo`, 09: `packagist.org`, 10: `api-docs.boltcms.io`, 11: `com.google.android.gm`, 12: `cve.mitre.org`, 13: `awesomeopensource.com`, 14: `alexei-cioina.b9ad.pro-us-east-1.openshiftapps.com`, 15: `archplanreview.com`
 
 
 

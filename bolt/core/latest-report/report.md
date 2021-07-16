@@ -1,5 +1,5 @@
 % Statistics for bolt/core
-% Generated for [bolt/core](https://github.com/bolt/core) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2021-07-16 23:32 UTC.
+% Generated for [bolt/core](https://github.com/bolt/core) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2021-07-16 23:37 UTC.
 
 
 ## Views
@@ -68,7 +68,7 @@ respond slowly to change (narrow peaks are smoothed out).
 
 <div id="chart_referrers_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 referrers: 01: `github.com`, 02: `Google`, 03: `docs.bolt.cm`, 04: `boltcms.io`, 05: `roadmap.boltcms.io`, 06: `en.wikipedia.org`, 07: `t.co`, 08: `DuckDuckGo`, 09: `github.community`, 10: `api-docs.boltcms.io`, 11: `packagist.org`, 12: `archplanreview.com`, 13: `alexei-cioina.b9ad.pro-us-east-1.openshiftapps.com`, 14: `pk.rusoil.net`, 15: `com.google.android.gm`
+Top 15 referrers: 01: `github.com`, 02: `Google`, 03: `docs.bolt.cm`, 04: `boltcms.io`, 05: `roadmap.boltcms.io`, 06: `en.wikipedia.org`, 07: `t.co`, 08: `DuckDuckGo`, 09: `github.community`, 10: `api-docs.boltcms.io`, 11: `packagist.org`, 12: `awesomeopensource.com`, 13: `alexei-cioina.b9ad.pro-us-east-1.openshiftapps.com`, 14: `cve.mitre.org`, 15: `archplanreview.com`
 
 
 
@@ -79,7 +79,7 @@ Top 15 referrers: 01: `github.com`, 02: `Google`, 03: `docs.bolt.cm`, 04: `boltc
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/issues`, 03: `/pull/2562`, 04: `/issues/1092`, 05: `/tree/4.1/src`, 06: `/discussions`, 07: `/releases/tag/4.1.20`, 08: `/releases/tag/4.1.19`, 09: `/releases/tag/4.1.22`, 10: `/releases`, 11: `/pulls`, 12: `/issues/2546`, 13: `/blob/4.1/composer.json`, 14: `/discussions/2318`, 15: `/search`
+Top 15 paths: 01: `/`, 02: `/issues`, 03: `/pull/2562`, 04: `/issues/1092`, 05: `/tree/4.1/src`, 06: `/discussions`, 07: `/releases/tag/4.1.20`, 08: `/releases/tag/4.1.19`, 09: `/releases/tag/4.1.22`, 10: `/releases`, 11: `/pulls`, 12: `/issues/2546`, 13: `/discussions/2318`, 14: `/blob/4.1/composer.json`, 15: `/search`
 
 
 <script type="text/javascript">

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/bolt/core,379,146
+/bolt/core/issues,151,35
+/bolt/core/pulls,109,15
+/bolt/core/search,62,9
+/bolt/core/discussions,42,18
+/bolt/core/tree/4.1/src,39,24
+/bolt/core/releases,37,14
+/bolt/core/tags,25,3
+/bolt/core/issues/2546,19,14
+/bolt/core/blob/4.1/composer.json,16,12

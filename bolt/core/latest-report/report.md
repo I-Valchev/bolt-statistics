@@ -1,5 +1,5 @@
 % Statistics for bolt/core
-% Generated for [bolt/core](https://github.com/bolt/core) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2021-09-19 23:31 UTC.
+% Generated for [bolt/core](https://github.com/bolt/core) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2021-09-19 23:42 UTC.
 
 
 ## Views
@@ -68,7 +68,7 @@ respond slowly to change (narrow peaks are smoothed out).
 
 <div id="chart_referrers_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `boltcms.io`, 04: `docs.boltcms.io`, 05: `docs.bolt.cm`, 06: `roadmap.boltcms.io`, 07: `en.wikipedia.org`, 08: `t.co`, 09: `github.community`, 10: `en.m.wikipedia.org`, 11: `DuckDuckGo`, 12: `tomasvotruba.com`, 13: `packagist.org`, 14: `api-docs.boltcms.io`, 15: `awesomeopensource.com`
+Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `boltcms.io`, 04: `docs.boltcms.io`, 05: `docs.bolt.cm`, 06: `roadmap.boltcms.io`, 07: `en.wikipedia.org`, 08: `t.co`, 09: `github.community`, 10: `en.m.wikipedia.org`, 11: `DuckDuckGo`, 12: `packagist.org`, 13: `api-docs.boltcms.io`, 14: `tomasvotruba.com`, 15: `alexei-cioina.b9ad.pro-us-east-1.openshiftapps.com`
 
 
 
@@ -79,7 +79,7 @@ Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `boltcms.io`, 04: `docs.bo
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/issues/2546`, 03: `/issues`, 04: `/pull/2562`, 05: `/discussions/2318`, 06: `/releases`, 07: `/discussions`, 08: `/issues/1092`, 09: `/tree/4.1/src`, 10: `/releases/tag/4.1.20`, 11: `/tree/master/src`, 12: `/releases/tag/4.1.19`, 13: `/releases/tag/4.1.22`, 14: `/pulls`, 15: `/releases/tag/4.1.23`
+Top 15 paths: 01: `/`, 02: `/issues/2546`, 03: `/issues`, 04: `/pull/2562`, 05: `/discussions/2318`, 06: `/releases`, 07: `/discussions`, 08: `/issues/1092`, 09: `/tree/4.1/src`, 10: `/releases/tag/4.1.20`, 11: `/releases/tag/4.1.19`, 12: `/tree/master/src`, 13: `/releases/tag/4.1.22`, 14: `/pulls`, 15: `/releases/tag/4.1.23`
 
 
 <script type="text/javascript">

@@ -1,5 +1,5 @@
 % Statistics for bolt/core
-% Generated for [bolt/core](https://github.com/bolt/core) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2021-09-23 23:43 UTC.
+% Generated for [bolt/core](https://github.com/bolt/core) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2021-09-23 23:53 UTC.
 
 
 ## Views
@@ -68,7 +68,7 @@ respond slowly to change (narrow peaks are smoothed out).
 
 <div id="chart_referrers_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `boltcms.io`, 04: `docs.boltcms.io`, 05: `docs.bolt.cm`, 06: `roadmap.boltcms.io`, 07: `en.wikipedia.org`, 08: `t.co`, 09: `github.community`, 10: `en.m.wikipedia.org`, 11: `Bing`, 12: `DuckDuckGo`, 13: `packagist.org`, 14: `tomasvotruba.com`, 15: `api-docs.boltcms.io`
+Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `boltcms.io`, 04: `docs.boltcms.io`, 05: `docs.bolt.cm`, 06: `roadmap.boltcms.io`, 07: `en.wikipedia.org`, 08: `t.co`, 09: `github.community`, 10: `en.m.wikipedia.org`, 11: `Bing`, 12: `DuckDuckGo`, 13: `tomasvotruba.com`, 14: `api-docs.boltcms.io`, 15: `packagist.org`
 
 
 
@@ -79,7 +79,7 @@ Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `boltcms.io`, 04: `docs.bo
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/issues/2546`, 03: `/issues`, 04: `/pull/2562`, 05: `/discussions/2318`, 06: `/releases`, 07: `/discussions`, 08: `/issues/1092`, 09: `/tree/4.1/src`, 10: `/releases/tag/4.1.20`, 11: `/releases/tag/4.1.19`, 12: `/tree/master/src`, 13: `/releases/tag/4.1.22`, 14: `/pulls`, 15: `/releases/tag/4.1.23`
+Top 15 paths: 01: `/`, 02: `/issues/2546`, 03: `/issues`, 04: `/pull/2562`, 05: `/discussions/2318`, 06: `/releases`, 07: `/discussions`, 08: `/issues/1092`, 09: `/tree/4.1/src`, 10: `/releases/tag/4.1.20`, 11: `/tree/master/src`, 12: `/releases/tag/4.1.19`, 13: `/releases/tag/4.1.22`, 14: `/pulls`, 15: `/releases/tag/4.1.23`
 
 
 <script type="text/javascript">

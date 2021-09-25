@@ -1,5 +1,5 @@
 % Statistics for bolt/core
-% Generated for [bolt/core](https://github.com/bolt/core) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2021-09-25 23:31 UTC.
+% Generated for [bolt/core](https://github.com/bolt/core) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2021-09-25 23:42 UTC.
 
 
 ## Views
@@ -68,7 +68,7 @@ respond slowly to change (narrow peaks are smoothed out).
 
 <div id="chart_referrers_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `boltcms.io`, 04: `docs.boltcms.io`, 05: `docs.bolt.cm`, 06: `roadmap.boltcms.io`, 07: `t.co`, 08: `en.wikipedia.org`, 09: `github.community`, 10: `en.m.wikipedia.org`, 11: `DuckDuckGo`, 12: `Bing`, 13: `api-docs.boltcms.io`, 14: `tomasvotruba.com`, 15: `packagist.org`
+Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `boltcms.io`, 04: `docs.boltcms.io`, 05: `docs.bolt.cm`, 06: `roadmap.boltcms.io`, 07: `t.co`, 08: `en.wikipedia.org`, 09: `github.community`, 10: `en.m.wikipedia.org`, 11: `DuckDuckGo`, 12: `Bing`, 13: `tomasvotruba.com`, 14: `api-docs.boltcms.io`, 15: `packagist.org`
 
 
 

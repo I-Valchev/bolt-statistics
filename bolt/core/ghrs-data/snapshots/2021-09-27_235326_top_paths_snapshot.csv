@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/bolt/core,58,26
+/bolt/core/pulls,31,3
+/bolt/core/issues,26,8
+/bolt/core/pull/2829/checks,18,1
+/bolt/core/issues/2546,14,9
+/bolt/core/pull/2814,10,1
+/bolt/core/actions/runs/1232721828,8,1
+/bolt/core/pull/2814/checks,7,1
+/bolt/core/tree/master/docker/php,7,1
+/bolt/core/blob/master/SETUP.md,6,4

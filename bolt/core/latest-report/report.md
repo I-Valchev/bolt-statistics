@@ -1,5 +1,5 @@
 % Statistics for bolt/core
-% Generated for [bolt/core](https://github.com/bolt/core) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2021-10-03 23:16 UTC.
+% Generated for [bolt/core](https://github.com/bolt/core) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2021-10-03 23:32 UTC.
 
 
 ## Views
@@ -68,7 +68,7 @@ respond slowly to change (narrow peaks are smoothed out).
 
 <div id="chart_referrers_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `boltcms.io`, 04: `docs.boltcms.io`, 05: `docs.bolt.cm`, 06: `roadmap.boltcms.io`, 07: `t.co`, 08: `en.wikipedia.org`, 09: `reddit.com`, 10: `github.community`, 11: `en.m.wikipedia.org`, 12: `Bing`, 13: `DuckDuckGo`, 14: `packagist.org`, 15: `tomasvotruba.com`
+Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `boltcms.io`, 04: `docs.boltcms.io`, 05: `docs.bolt.cm`, 06: `roadmap.boltcms.io`, 07: `t.co`, 08: `en.wikipedia.org`, 09: `reddit.com`, 10: `github.community`, 11: `Bing`, 12: `en.m.wikipedia.org`, 13: `DuckDuckGo`, 14: `api-docs.boltcms.io`, 15: `tomasvotruba.com`
 
 
 

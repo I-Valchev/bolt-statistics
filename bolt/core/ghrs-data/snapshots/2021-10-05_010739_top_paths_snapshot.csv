@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/bolt/core,351,166
+/bolt/core/issues,142,34
+/bolt/core/issues/2546,117,75
+/bolt/core/tree/master/src,49,20
+/bolt/core/pulls,49,10
+/bolt/core/tree/master/config,33,10
+/bolt/core/releases,32,11
+/bolt/core/discussions,28,15
+/bolt/core/search,26,6
+/bolt/core/tree/master/src/Entity,26,6

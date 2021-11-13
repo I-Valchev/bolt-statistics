@@ -1,5 +1,5 @@
 % Statistics for bolt/core
-% Generated for [bolt/core](https://github.com/bolt/core) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2021-11-13 23:45 UTC.
+% Generated for [bolt/core](https://github.com/bolt/core) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2021-11-13 23:54 UTC.
 
 
 ## Views
@@ -68,7 +68,7 @@ respond slowly to change (narrow peaks are smoothed out).
 
 <div id="chart_referrers_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `boltcms.io`, 04: `docs.boltcms.io`, 05: `docs.bolt.cm`, 06: `roadmap.boltcms.io`, 07: `t.co`, 08: `reddit.com`, 09: `en.wikipedia.org`, 10: `en.m.wikipedia.org`, 11: `github.community`, 12: `jvndb.jvn.jp`, 13: `Bing`, 14: `DuckDuckGo`, 15: `api-docs.boltcms.io`
+Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `boltcms.io`, 04: `docs.boltcms.io`, 05: `docs.bolt.cm`, 06: `roadmap.boltcms.io`, 07: `t.co`, 08: `reddit.com`, 09: `en.wikipedia.org`, 10: `en.m.wikipedia.org`, 11: `jvndb.jvn.jp`, 12: `Bing`, 13: `github.community`, 14: `DuckDuckGo`, 15: `api-docs.boltcms.io`
 
 
 
